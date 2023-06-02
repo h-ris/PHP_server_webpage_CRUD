@@ -1,13 +1,5 @@
 <?php
 
-/* Name: Huixin Xu
-Due Date: Apr 10, 2023
-Section: CST8285 313
-Lab: 23W Assignment2
-File: movieDAO.php
-Lab objective: Create PHP server web pages corresponding to CRUD operations for one entity.
-*/
-
 require_once('abstractDAO.php');
 require_once('./movie.php');
 
