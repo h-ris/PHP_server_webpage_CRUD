@@ -1,11 +1,7 @@
 <?php
 
-/* Name: Huixin Xu
-Due Date: Apr 10, 2023
-Section: CST8285 313
-Lab: 23W Assignment2
-File: abstractDAO.php
-Lab objective: Create PHP server web pages corresponding to CRUD operations for one entity.
+/* 
+* Create PHP server web pages corresponding to CRUD operations for one entity.
 */
 
 //Used to throw mysqli_sql_exceptions for database errors instead or printing them to the screen.
