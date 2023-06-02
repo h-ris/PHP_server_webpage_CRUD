@@ -1,10 +1,3 @@
--- Name: Huixin Xu
--- Due Date: Apr 10, 2023
--- Section: CST8285 313
--- Lab: 23W Assignment2
--- File: movies.sql
--- Lab objective: Create PHP server web pages corresponding to CRUD operations for one entity.
-
 CREATE DATABASE movie;
 GRANT USAGE ON *.* TO 'appuser'@'localhost' IDENTIFIED BY 'password';
 GRANT ALL PRIVILEGES ON movie.* TO 'appuser'@'localhost';
